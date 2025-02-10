@@ -1,0 +1,5 @@
+foxhound_crit.wav
+foxhound_reloadspeech1.wav
+foxhound_reloadspeech2.wav
+foxhound_reloadspeech3.wav
+foxhound_shoot.wav
